@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Lmiranda-dev/Lmiranda-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate specializing in backend development, database systems, and cloud architecture.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+**Languages:** Python, Java, JavaScript, SQL, C++  
+**Databases:** PostgreSQL, Apache Spark  
+**Cloud:** AWS, Azure, GCP  
+**Tools:** Node.js, React, Docker, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- Building a full-stack job application tracker
+- Exploring distributed systems and microservices
+
+## 📫 Connect
+- LinkedIn: [linkedin.com/in/luis-miranda-bb68a329a](https://linkedin.com/in/luis-miranda-bb68a329a)
+- Email: Luismiranda156@gmail.com
