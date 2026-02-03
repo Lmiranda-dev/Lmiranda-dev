@@ -13,5 +13,5 @@ Computer Engineering graduate specializing in backend development, database syst
 - Exploring distributed systems and microservices
 
 ## 📫 Connect
-- LinkedIn: [linkedin.com/in/luis-miranda-bb68a329a](https://linkedin.com/in/luis-miranda-bb68a329a)
+- LinkedIn: [linkedin.com/in/luismiranda56](https://www.linkedin.com/in/luismiranda56)
 - Email: Luismiranda156@gmail.com
